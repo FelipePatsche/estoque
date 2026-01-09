@@ -11,8 +11,9 @@ Abaixo você pode ver as principais funções do projeto:
 - string.h
 ### Instalação
 - Use qualquer editor de texto ( preferencialmente VS Code)
-- Compile o código usando o compilador pedido na seção "## Compilador" em "### Pré-requisitos "
-- Coloque o arquivo executavel criado pelo compilador dentro de uma pasta desejavel (o restante dos arquivos sao criados automaticamente pelo programa)
+- Abra o terminal dentro da pasta do arquivo
+- digite "gcc programa.c -o programa" no terminal e confirme
+- Coloque o arquivo executavel criado Spelo compilador dentro de uma pasta desejavel (o restante dos arquivos sao criados automaticamente pelo programa)
 - Pronto para usar
 ### Demonstração
 1. adicionar item ('1')
