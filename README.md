@@ -12,7 +12,7 @@ Abaixo você pode ver as principais funções do projeto:
 ### Instalação
 - Use qualquer editor de texto ( preferencialmente VS Code)
 - Abra o terminal dentro da pasta do arquivo
-- digite "gcc programa.c -o programa" no terminal e confirme
+- digite "gcc estoque.c -o estoque" no terminal e confirme
 - Coloque o arquivo executavel criado Spelo compilador dentro de uma pasta desejavel (o restante dos arquivos sao criados automaticamente pelo programa)
 - Pronto para usar
 ### Demonstração
